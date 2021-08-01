@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>resource/toDQ.txt</file>
+        <file>resource/Happybirthday.mp3</file>
+        <file>resource/mute.bmp</file>
+        <file>resource/pause.bmp</file>
+        <file>resource/start.bmp</file>
+        <file>resource/stop.bmp</file>
+        <file>resource/volume.bmp</file>
+        <file>resource/background4_65.png</file>
+        <file>resource/background5.jpg</file>
+        <file>resource/myIcon.ico</file>
+    </qresource>
+</RCC>
